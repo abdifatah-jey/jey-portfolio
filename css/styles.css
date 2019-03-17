@@ -11,3 +11,7 @@ h2 {
   text-decoration: overline;
   color: purple;
 }
+.licence {
+  image-resolution: from-image;
+  width: 2px;
+}
